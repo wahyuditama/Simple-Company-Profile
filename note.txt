@@ -1,0 +1,6 @@
+<!----  The following is an example of a simple presence
+of a company profile, created with HTML, CSS and Boostrap 5 ---->
+
+<!----- for images taken from https://unsplash.com/photos/----->
+
+ThankS you in advances
